@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3caae50e-b7e3-44b1-8956-c7d1dc4e02a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/doctors.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/natanael-melchor-43LwvC-eQPM-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cardio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dermatologia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ginecologia.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/orto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/psicologia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/uro.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/especialidades.html" beforeDir="false" afterPath="$PROJECT_DIR$/especialidades.html" afterDir="false" />
     </list>
@@ -25,7 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1l92kvvnFNlYcEpxO72ZKKx2Qm6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -52,7 +58,7 @@
       <updated>1606995132677</updated>
       <workItem from="1606995136600" duration="954000" />
       <workItem from="1607437891205" duration="239000" />
-      <workItem from="1607595549764" duration="2124000" />
+      <workItem from="1607595549764" duration="4748000" />
     </task>
     <servers />
   </component>
