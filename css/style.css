@@ -1,0 +1,26 @@
+.menu-botao span {
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-botao:hover {
+    background-color: rgba(203, 203, 203, 0.35);
+}
+
+.card:hover {
+    background-color: rgba(203, 203, 203, 0.35);
+}
+
+.navbar-nav {
+    font-size: 18px;
+    text-align: center;
+}
+
+.nav-item:hover {
+    background-color: #0dcaf0;
+    border-radius: 50px;
+    -webkit-transition: background-color 2s ease-out;
+    -moz-transition: background-color 2s ease-out;
+    -o-transition: background-color 2s ease-out;
+    transition: background-color 2s ease-out;
+}
